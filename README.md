@@ -16,7 +16,7 @@ This project is a simple console application that retrieves a list of secrets us
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/SecretsAnalyser.git
+    git clone https://github.com/ketu98/SecretsAnalyser.git
     ```
 
 2. Open the solution in Visual Studio:
@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Created by [Your Name](https://github.com/yourusername) - feel free to contact me!
+Created by [Aniket Ghosh](https://github.com/ketu98) - feel free to contact me!
